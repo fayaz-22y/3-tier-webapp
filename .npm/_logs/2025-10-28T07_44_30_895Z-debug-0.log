@@ -1,0 +1,18 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.19.5
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/ubuntu/ecommerce-frontend/.npmrc
+5 silly config load:file:/home/ubuntu/.npmrc
+6 silly config load:file:/usr/etc/npmrc
+7 verbose title npm config list
+8 verbose argv "config" "list"
+9 verbose logfile logs-max:10 dir:/home/ubuntu/.npm/_logs/2025-10-28T07_44_30_895Z-
+10 verbose logfile /home/ubuntu/.npm/_logs/2025-10-28T07_44_30_895Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd /home/ubuntu/ecommerce-frontend
+13 verbose os Linux 6.8.0-1040-aws
+14 verbose node v20.19.5
+15 verbose npm  v10.8.2
+16 verbose exit 0
+17 info ok
